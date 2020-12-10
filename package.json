@@ -1,0 +1,18 @@
+{
+  "name": "stoic-browser-auto-ui-editor",
+  "description": null,
+  "version": "0.0.1",
+  "dependencies": {
+    "grapesjs": "latest",
+    "grapesjs-blocks-basic": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
